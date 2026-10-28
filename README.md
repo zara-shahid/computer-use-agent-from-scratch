@@ -6,7 +6,6 @@ This is Phase 7 of my AI agents learning journey, extending the browser-only age
 
 ## What This Repo Covers
 
-
 | Step | Folder | File | Topic |
 |------|--------|------|-------|
 | 1 | `01-pyautogui-basics` | `pyautogui_basics.py` | Mouse, keyboard, and screen control, fail-safe, fast screenshots with mss |
